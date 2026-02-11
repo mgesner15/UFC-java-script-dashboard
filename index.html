@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MMA Classes Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <h1>MMA Classes Dashboard</h1>
+  <div class="dashboard">
+    <section>
+      <h2>Daily Attendance</h2>
+      <canvas id="attendanceChart"></canvas>
+    </section>
+    <section>
+      <h2>Calories Burned</h2>
+      <input type="date" id="startDate">
+      <input type="date" id="endDate">
+      <canvas id="caloriesChart"></canvas>
+    </section>
+    <section>
+      <h2>Training Focus (This Week)</h2>
+      <canvas id="trainingPieChart"></canvas>
+    </section>
+    <section>
+      <h2>Average Training Minutes</h2>
+      <button id="refreshRadar">Refresh Data</button>
+      <canvas id="trainingRadarChart"></canvas>
+    </section>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>

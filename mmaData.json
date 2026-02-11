@@ -1,0 +1,12 @@
+{
+    "classData": [
+      {"date": "2025-04-01", "attendance": 12, "calories": 400, "training": {"striking": 30, "grappling": 20, "conditioning": 10}},
+      {"date": "2025-04-02", "attendance": 15, "calories": 450, "training": {"striking": 20, "grappling": 30, "conditioning": 15}},
+      {"date": "2025-04-03", "attendance": 10, "calories": 380, "training": {"striking": 25, "grappling": 25, "conditioning": 10}},
+      {"date": "2025-04-04", "attendance": 18, "calories": 500, "training": {"striking": 35, "grappling": 20, "conditioning": 20}},
+      {"date": "2025-04-05", "attendance": 14, "calories": 420, "training": {"striking": 20, "grappling": 25, "conditioning": 15}},
+      {"date": "2025-04-06", "attendance": 16, "calories": 470, "training": {"striking": 30, "grappling": 30, "conditioning": 10}},
+      {"date": "2025-04-07", "attendance": 11, "calories": 390, "training": {"striking": 25, "grappling": 20, "conditioning": 15}}
+    ]
+  }
+  
